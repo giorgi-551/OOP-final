@@ -1,5 +1,7 @@
 Final exam
 
+screenshot: ![](screenshot.png)
+
 Overview
 This is a Java program that demonstrates **list manipulation** using index-based access. The program combines two lists and then performs selective deletions based on index values.
 
